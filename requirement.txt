@@ -1,0 +1,8 @@
+opencv-python
+numpy
+yolo
+jsons
+pyqt5
+lxml
+python-dotenv
+roboflow
